@@ -11,16 +11,3 @@ This schematic drawing shows when the laser hit a solar cell, first reflection w
 
 [Simulation.py](Simulation.py): This script simulates light trapping in an ideal silicon solar cell for many iterations.
 
-"ReadData_" files: These scripts read simulationn data and plot histograms of corresponding values vs. raius.
-
- <!-- Container for the first image and its annotation -->
-  <div style="float: left; width: 50%; text-align: center;">
-          <img src="Imges/Methodology_2.png" alt="First Image Description"  height=250>
-          <p>Annotation for the first image</p>
-    </div>
-
-    <!-- Container for the second image and its annotation -->
-  <div style="float: left; width: 50%; text-align: center;">
-        <img src="Imges/Methodology_1.png" alt="Second Image Description" height=250>
-        <p>Annotation for the second image</p>
-    </div>
